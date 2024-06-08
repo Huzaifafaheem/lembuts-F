@@ -6,7 +6,6 @@ export default function Home() {
       <h2>hello Home</h2>
       <h2>hello Home</h2>
       <h2>hello Home</h2>
-      <h2>hello Home</h2>
     </>
   );
 }
